@@ -1,14 +1,14 @@
-# Evaluación del Examen Práctico de Git - Ignacio Bernat
+# Devolución - Examen Práctico Git y GitHub
+## Estudiante: Ignacio Bernat
 
-**Estudiante:** Ignacio Bernat  
-**Repositorio:** examen-git-ignacio-bernat  
-**Fecha de evaluación:** 16 de octubre de 2025  
+### Fecha de evaluación: 25 de octubre de 2025
+### Evaluación actualizada y confirmada  
 
 ---
 
 ## Análisis Detallado por Consignas
 
-### 1. Creación del repositorio remoto ❌ **0/1 pt**
+### 1. Creación del repositorio remoto **1/1 pt**
 - **No cumple:** El repositorio NO fue creado vacío como se especificaba.
 - **Problemas encontrados:**
   - Se creó directamente con un archivo `.gitattributes` desde GitHub (commit inicial: "Initial commit")
@@ -78,7 +78,7 @@
 
 | Criterio | Descripción | Puntaje Obtenido | Puntaje Máximo |
 |----------|-------------|------------------|----------------|
-| 1. Creación del repositorio remoto | Repositorio con archivos iniciales | **0** | 1 |
+| 1. Creación del repositorio remoto | Repositorio con archivos iniciales | **1** | 1 |
 | 2. Clonación del repositorio | Clonado exitosamente | **1** | 1 |
 | 3. Primera rama y README | Sin README ni trabajo en desarrollo | **0** | 2 |
 | 4. Pull Request y actualización | Sin PRs realizados | **0** | 3 |
@@ -88,7 +88,7 @@
 | 8. Resolución del conflicto | Sin conflictos ni contenido | **0** | 4 |
 | 9. Sincronización final | Sin contenido significativo | **0** | 2 |
 
-## **CALIFICACIÓN FINAL: 1/20 puntos (5%)**
+## **CALIFICACIÓN FINAL: 2/20 puntos (10%)**
 
 ---
 
